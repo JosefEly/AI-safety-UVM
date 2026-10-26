@@ -1,0 +1,18 @@
+/* Minimal base styles. Replace freely; this is only here so pages are readable. */
+
+body {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+nav a {
+  margin-right: 1rem;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
