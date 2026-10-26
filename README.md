@@ -2,7 +2,9 @@
 
 Plain HTML pages with one shared stylesheet. No build step, no framework.
 
-- `index.html`: home page
+- `index.html`: home page (the poster)
+- `about.html`: about the group
+- `poster.html`: redirects to the homepage (old link)
 - `events.html`: meetings
 - `resources.html`: reading list and links
 - `contact.html`: contact info
